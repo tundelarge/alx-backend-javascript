@@ -1,1 +1,1 @@
-qwertyu
+'use strict';
